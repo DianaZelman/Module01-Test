@@ -1,0 +1,50 @@
+.container {
+    background: #EAE7DC;
+    padding: 5px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: #E85A4F;
+    margin: 2px;
+}
+
+p {
+    color: #AC3B61;
+}
+
+li {
+    color:  #E85A4F;
+}
+
+li span{
+    color: #123C69;
+}
+
+ol {
+    color: #E85A4F;
+}
+
+ol li a {
+    text-decoration: none;
+    color: #123C69;
+}
+
+ol li a:hover {
+    color: #E85A4F;
+}
+
+hr {
+    border: none;
+    color: linear-gradient(45deg, rgb(232, 90, 79), rgb(18, 60, 105));
+    background: linear-gradient(45deg, rgb(232, 90, 79), rgb(18, 60, 105));
+    height: 2px;
+}
+
+q {
+    color: #E85A4F;
+    font-weight: bold;
+}
